@@ -1,1 +1,1 @@
-The MPN software was developed to calculate the Most Probable Number as a density measure of microorganisms in a water sample. It which can be used in water quality control laboratories to facilitate MPN calculation.
+The MPN software was developed in VB-6 to calculate the Most Probable Number as a density measure of microorganisms in a water sample. It may be used in water quality control laboratories to facilitate MPN calculation.
